@@ -7,7 +7,7 @@ necesita realizar un diseño de su base de datos que permita almacenar toda su i
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ¡Gracias por revisar mis proyectos! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
